@@ -1,8 +1,11 @@
 title: Rahul Yadav # your name (or website title) here
 logo: "/images/github-pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-I'm Rahul - Programmer, Machine Learning Addict, perpetually curious and obsessed with changing the world for the better (Mildly political too)
 
+
+  Programmer, Machine Learning Addict, perpetually curious and obsessed with changing the world for the better (Mildly political too)
+  <br><br>
+  
   <a href="https://www.linkedin.com/in/rahulynot/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
