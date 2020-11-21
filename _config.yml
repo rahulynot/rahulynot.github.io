@@ -4,16 +4,16 @@ description: > # your text below (remove <br> elements if you don't need line br
 
 
   Programmer
-  <br><br>
+  <br>
   Machine Learning Addict
-  <br><br>
+  <br>
   Perpetually curious 
-  <br><br>
+  <br>
   Obsessed with changing the world for the better 
-  <br><br>
+  <br>
   (Mildly political too)
 
-  
+  <br><br>
   <a href="https://www.linkedin.com/in/rahulynot/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
