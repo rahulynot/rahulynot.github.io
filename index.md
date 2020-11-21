@@ -3,5 +3,6 @@ Programming (C++, Python), Machine Learning & Deep Learning, Solution Architectu
 
 
 
+
 ### Skills Under Development
-Web and App development (Flutter)
+Web and App development (Flutter, Dart)
