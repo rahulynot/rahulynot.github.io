@@ -1,6 +1,6 @@
 ### Key Skills
-Programming (C++, Python),  
-Machine Learning & Deep Learning,  
+Programming (C++, Python)  
+Machine Learning & Deep Learning  
 Solution Architecture (AWS)  
 
 ### Skills Under Development
