@@ -1,6 +1,6 @@
 ### Key Skills
 Programming  (<strong>C++, Python, Dart, Rust</strong>)  
-Machine Learning & Deep Learning  (<strong>Ensemble Learning, Neural Networks</strong>)  
+Machine Learning  (<strong>Ensemble Learning, Neural Networks</strong>)  
 Data Analysis  
 Solution Architecture  (<strong>AWS</strong>)  
 
