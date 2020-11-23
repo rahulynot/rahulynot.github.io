@@ -1,10 +1,10 @@
 ### Key Skills
-Programming (C++, Python, Dart, Rust)  
+Programming (<strong>C++, Python, Dart, Rust</strong>)  
 Machine Learning & Deep Learning  
-(Classical stastical methods, Ensemble Learning, Neural Networks)  
+(<strong>Classical stastical methods, Ensemble Learning, Neural Networks</strong>)  
 Data Analysis  
-Solution Architecture (AWS)  
+Solution Architecture (<strong>AWS</strong>)  
 
 ### Skills Under Development
-Backend (Django)  
-Web and App development (Flutter)  
+Backend (<strong>Django</strong>)  
+Web and App development (<strong>Flutter</strong>)  
